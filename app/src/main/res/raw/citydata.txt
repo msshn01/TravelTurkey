@@ -1,0 +1,80 @@
+Adana#01#Akdeniz#Taskopru, Seyhan Baraji, Adana Merkez Park, Varda Koprusu, Anavarza Antik Kenti
+Adiyaman#02#Guneydogu Anadolu#Nemrut Dagi Milli Parki, Karakus Tumulusu, Arsemia Antik Kenti, Cendere Koprusu, Perre Antik Sehri
+Afyonkarahisar#03#Ege#Afyon Kalesi, Frig Vadisi, Gazligol Termal Kaplicalari, Ayazini Kasabasi, Afyonkarahisar Arkeoloji Muzesi
+Agri#04#Dogu Anadolu#Agri Dagi, Ishak Pasa Sarayi, Dogubayazit Kalesi, Meteor Cukuru, Balik Golu
+Amasya#05#Karadeniz#Kral Kaya Mezarlari, Yaliboyu Evleri, Amasya Kalesi, Boraboy Golu, Hazeranlar Konagi
+Ankara#06#Ic Anadolu#Anitkabir, Ankara Kalesi, Kocatepe Camii, Ataturk Orman Ciftligi, Genclik Parki
+Antalya#07#Akdeniz#Kaleici, Aspendos Antik Tiyatrosu, Konyaalti Plaji, Duden Selalesi, Olympos Antik Kenti
+Artvin#08#Karadeniz#Karagol-Sahara Milli Parki, Macahel Yaylasi, Deriner Baraji, Savsat Yaylalari, Borcka Karagol
+Aydin#09#Ege#Didim Apollon Tapinagi, Priene Antik Kenti, Kusadasi Plajlari, Milet Antik Kenti, Bafa Golu
+Balikesir#10#Marmara#Kazdaglari Milli Parki, Ayvalik Cunda Adasi, Gomec Sahili, Manyas Kus Cenneti, Seytan Sofrasi
+Bilecik#11#Marmara#Sogut Ertugrul Gazi Turbesi, Bilecik Müzesi, Inhisar Magaralari, Harmankaya Kanyonu, Osmaneli Tarihi Evleri
+Bingol#12#Dogu Anadolu#Yuzer Adalar, Kigi Kalesi, Bingol Kaplicalari, Cir Ciri Selalesi, Hesarek Kayak Merkezi
+Bitlis#13#Dogu Anadolu#Nemrut Krater Golu, Bitlis Kalesi, Ahlat Selcuklu Mezarliklari, Ihlasiye Medresesi, El-Aman Hanı
+Bolu#14#Karadeniz#Abant Golu, Yedigoller Milli Parki, Goynuk Tarihi Evleri, Kartalkaya Kayak Merkezi, Seben Kaya Evleri
+Burdur#15#Akdeniz#Salda Golu, Insuyu Magarasi, Sagalassos Antik Kenti, Burdur Arkeoloji Muzesi, Kibyra Antik Kenti
+Bursa#16#Marmara#Uludag, Cumalikizik Koyu, Yesil Turbe, Bursa Ulu Camii, Muradiye Kulliyesi
+Canakkale#17#Marmara#Truva Antik Kenti, Gelibolu Yarimadasi, Assos Antik Kenti, Kilitbahir Kalesi, Bozcaada
+Cankiri#18#Ic Anadolu#Cankiri Tuz Magarasi, Ilgaz Dagi Milli Parki, Cankiri Kalesi, Tatlidede Camii, Bugday Pazari Medresesi
+Corum#19#Karadeniz#Hattusas Antik Kenti, Alacahoyuk, Corum Saat Kulesi, Yazilikaya Acik Hava Tapinagi, Corum Müzesi
+Denizli#20#Ege#Pamukkale Travertenleri, Hierapolis Antik Kenti, Karahayit Kaplicalari, Laodikeia Antik Kenti, Honaz Dagi Milli Parki
+Diyarbakir#21#Guneydogu Anadolu#Diyarbakir Surlari, Hevsel Bahceleri, Ulu Camii, Ongozlu Kopru, Hasan Pasa Hani
+Edirne#22#Marmara#Selimiye Camii, Meric Koprusu, Edirne Sarayi, Karaağaç Tren Gari, Lozan Aniti
+Elazig#23#Dogu Anadolu#Harput Kalesi, Keban Baraji, Buzluk Magarasi, Hazar Golu, Cip Kaplicalari
+Erzincan#24#Dogu Anadolu#Kemaliye Tas Yolu, Girlevik Selalesi, Erzincan Ekşisu, Munzur Dagi Milli Parki, Altin Tepe
+Erzurum#25#Dogu Anadolu#Palandoken Kayak Merkezi, Cifte Minareli Medrese, Erzurum Kalesi, Tortum Selalesi, Narman Peribacalari
+Eskisehir#26#Ic Anadolu#Porsuk Cayi, Odunpazari Tarihi Evleri, Sazova Bilim Parki, Yazilikaya Frig Vadisi, Balmumu Heykel Muzesi
+Gaziantep#27#Guneydogu Anadolu#Zeugma Mozaik Muzesi, Gaziantep Kalesi, Bakırcılar Carsisi, Rumkale, Yesemek Acik Hava Muzesi
+Giresun#28#Karadeniz#Giresun Adasi, Tirebolu Kalesi, Kulakkaya Yaylasi, Kuzalan Selalesi, Sis Dagi
+Gumushane#29#Karadeniz#Karaca Magarasi, Torul Kalesi, Tomara Selalesi, Santa Harabeleri, Artabel Goller
+Hakkari#30#Dogu Anadolu#Cilo Daglari, Sat Goller, Merga Bütan Kayak Merkezi, Seyithan Golu, Durankaya Yaylasi
+Hatay#31#Akdeniz#Antakya Mozaik Muzesi, Habib-i Neccar Camii, St. Pierre Kilisesi, Titus Tüneli, Harbiye Selaleleri
+Isparta#32#Akdeniz#Kovada Golu Milli Parki, Egirdir Golu, Yazili Kanyon, Gül Bahceleri, Davraz Kayak Merkezi
+Mersin#33#Akdeniz#Kizkalesi, Cennet-Cehennem Obruklari, Tarsus Sahabe Makami, Kanlıdivane, Yumuktepe Hoyugu
+Istanbul#34#Marmara#Topkapi Sarayi, Ayasofya Camii, Galata Kulesi, Dolmabahce Sarayi, Kapali Carsi
+Izmir#35#Ege#Efes Antik Kenti, Saat Kulesi, Konak Meydani, Cesme Plajlari, Agora Antik Kenti
+Kars#36#Dogu Anadolu#Ani Harabeleri, Kars Kalesi, Sarikamis Kayak Merkezi, Cildir Golu, Kuyucuk Golu
+Kastamonu#37#Karadeniz#Kastamonu Kalesi, Ilgaz Dagi Milli Parki, Valla Kanyonu, Horma Kanyonu, Inebolu Sahili
+Kayseri#38#Ic Anadolu#Erciyes Kayak Merkezi, Kapuzbasi Selaleleri, Gevher Nesibe Muzesi, Kayseri Kalesi, Sultan Marshes Milli Parki
+Kirklareli#39#Marmara#Dupnisa Magarasi, Igneada Longoz Ormanlari, Kirklareli Müzesi, Sislioba Kalesi, Kiyikoy Plaji
+Kirsehir#40#Ic Anadolu#Cacabey Medresesi, Seyfe Golu, Ahi Evran Külliyesi, Terme Kaplicalari, Mucur Obruk Magarasi
+Kocaeli#41#Marmara#Kartepe Kayak Merkezi, Ormanya Tabiat Parki, Eskihisar Kalesi, Darica Hayvanat Bahcesi, Sekapark
+Konya#42#Ic Anadolu#Mevlana Muzesi, Catalhoyuk Antik Kenti, Alaaddin Tepesi, Meram Baglari, Kilistra Antik Kenti
+Kutahya#43#Ege#Aizanoi Antik Kenti, Frig Vadisi, Kutahya Kalesi, Dumlupinar Sehitligi, Cinicilik Atolyeleri
+Malatya#44#Dogu Anadolu#Battalgazi Ulu Camii, Arslantepe Hoyugu, Levent Vadisi, Orduzu Pinarbasi, Gunpinar Selalesi
+Manisa#45#Ege#Spil Dagi Milli Parki, Sardes Antik Kenti, Kula Peribacalari, Muradiye Camii, Manisa Tarzan Parki
+Kahramanmaras#46#Akdeniz#Kahramanmaras Kalesi, Hurman Kalesi, Baskonus Yaylasi, Yedikuyular Kayak Merkezi, Ciftlik Selalesi
+Mardin#47#Guneydogu Anadolu#Mardin Tarihi Evleri, Deyrulzafaran Manastiri, Zinciriye Medresesi, Midyat, Kasimiye Medresesi
+Mugla#48#Ege#Bodrum Kalesi, Oludeniz, Marmaris Plaji, Dalyan Kral Mezarları, Saklikent Kanyonu
+Mus#49#Dogu Anadolu#Malazgirt Meydan Muharebesi Alani, Mus Kalesi, Kayalidere Antik Kenti, Hamurpet Golu, Murat Koprusu
+Nevsehir#50#Ic Anadolu#Goreme Milli Parki, Uchisar Kalesi, Derinkuyu Yer Alti Sehri, Ihlara Vadisi, Avanos
+Nigde#51#Ic Anadolu#Gumusler Manastiri, Aladaglar Milli Parki, Tyana Su Kemerleri, Nigde Kalesi, Kayardi Vadisi
+Ordu#52#Karadeniz#Boztepe, Ulugol Tabiat Parki, Persembe Yaylasi, Yason Burnu, Ordu Sahili
+Rize#53#Karadeniz#Ayder Yaylasi, Zilkale, Firtina Deresi, Pokut Yaylasi, Anzer Yaylasi
+Sakarya#54#Marmara#Sapanca Golu, Karasu Sahili, Acarlar Longozu, Tarakli, Dogancay Selalesi
+Samsun#55#Karadeniz#Bandirma Vapuru Muzesi, Amisos Tepesi, Atakum Plaji, Bafra Kizilirmak Deltasi, Tekkekoy Magaralari
+Siirt#56#Guneydogu Anadolu#Tillo Kalesi, Botan Vadisi, Siirt Ulu Camii, Veysel Karani Turbesi, Peri Bacalari
+Sinop#57#Karadeniz#Sinop Kalesi, Hamsilos Koyu, Inceburun Feneri, Erfelek Tatlica Selaleleri, Alaaddin Camii
+Sivas#58#Ic Anadolu#Divrigi Ulu Camii, Gokpinar Golu, Sivas Kalesi, Ballica Magarasi, Kangal Kaplicalari
+Tekirdag#59#Marmara#Rakoczi Muzesi, Tekirdag Sahili, Ucmakdere, Hora Feneri, Namik Kemal Evi
+Tokat#60#Karadeniz#Ballıca Magarasi, Tokat Kalesi, Almus Baraji, Hıdırlık Sosyal Tesisi, Niksar Kalesi
+Trabzon#61#Karadeniz#Sumela Manastiri, Uzungol, Trabzon Kalesi, Ayasofya Muzesi, Ataturk Kosku
+Tunceli#62#Dogu Anadolu#Munzur Vadisi Milli Parki, Ovacik Yaylasi, Pertek Kalesi, Munzur Gozeleri, Halbori Golu
+Sanliurfa#63#Guneydogu Anadolu#Gobeklitepe, Balikligol, Urfa Kalesi, Harran, Halfeti
+Usak#64#Ege#Ulubey Kanyonu, Blaundus Antik Kenti, Usak Arkeoloji Muzesi, Cilandiras Koprusu, Atapark
+Van#65#Dogu Anadolu#Akdamar Adasi, Van Kalesi, Hosap Kalesi, Muradiye Selalesi, Van Golu
+Yozgat#66#Ic Anadolu#Yozgat Cami Ataturk Ormani, Yozgat Kaplicalar, Kerkenes Harabeleri, Capanoglu Camii, Akdagmadeni Ormanlari
+Zonguldak#67#Karadeniz#Gokgol Magarasi, Filyos Kalesi, Kozlu Sahili, Cehennemagzi Magaralari, Zonguldak Limani
+Aksaray#68#Ic Anadolu#Ihlara Vadisi, Selime Katedrali, Agzikarahan Kervansarayi, Narligol, Acemhoyuk
+Bayburt#69#Karadeniz#Bayburt Kalesi, Aydintepe Yer Alti Sehri, Soganli Daglari, Koprukoy, Dede Korkut Turbesi
+Karaman#70#Ic Anadolu#Binbir Kilise, Karaman Kalesi, Taskale Tahil Ambarlari, Yesildere, Manazan Magaralari
+Kirikkale#71#Ic Anadolu#Silah Sanayi Muzesi, Celal Bayar Parki, Hasandede Camii, Karaahmetli Tabiat Parki, Hirfanli Baraji
+Batman#72#Guneydogu Anadolu#Hasankeyf, Malabadi Koprusu, Batman Muzesi, Mor Kiryakus Manastiri, Imam Abdullah Zaviyesi
+Sirnak#73#Guneydogu Anadolu#Cudi Dagi, Uludere Selalesi, Kasrik Vadisi, Finik Oren Yeri, Balveren Yaylasi
+Ardahan#75#Dogu Anadolu#Cildir Golu, Ardahan Kalesi, Akcakale Adasi, Bubat Yaylasi, Yalnizcam Kayak Merkezi
+Igdir#76#Dogu Anadolu#Agri Dagi Milli Parki, Tuzluca Tuz Magaralari, Karakoyunlu Anit Mezarlari, Erhaci Yaylasi, Aralik Ovası
+Yalova#77#Marmara#Termal Kaplicalari, Sudusen Selalesi, Yuruyen Kosk, Cinarcik Plaji, Erikli Yaylasi
+Karabuk#78#Karadeniz#Safranbolu Tarihi Evleri, Yenice Ormanlari, Kristal Teras, Incekaya Su Kemeri, Bulak Magarasi
+Kilis#79#Guneydogu Anadolu#Ravanda Kalesi, Kilis Ulu Camii, Oylum Hoyugu, Eski Kilis Evleri, Hoca Hamami
+Osmaniye#80#Akdeniz#Karatepe-Aslantas Milli Parki, Toprakkale, Kastabala Antik Kenti, Zorkun Yaylasi, Karaagac Selalesi
+Duzce#81#Karadeniz#Guzeldere Selalesi, Aydinpinar Selaleleri, Akcakoca Plaji, Samandere Selalesi, Karduz Yaylasi

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00FFFFFF"
+    tools:context=".activity.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="0dp"
+        android:layout_height="730dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.501"
+        app:srcCompat="@drawable/image" />
+
+    <Button
+        android:id="@+id/icAnadoluButton"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="300dp"
+        android:layout_marginEnd="196dp"
+        android:layout_marginBottom="57dp"
+        android:background="#00FFFFFF"
+        android:onClick="icAnadalu"
+        android:text="İç anadolu"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/akdenizButton"
+        app:layout_constraintEnd_toStartOf="@+id/doguAnadoluButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/marmaraButton" />
+
+    <Button
+        android:id="@+id/karadenizButton"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="184dp"
+        android:layout_marginBottom="63dp"
+        android:background="#00FFFFFF"
+        android:onClick="karadeniz"
+        android:text="Karadeniz"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/doguAnadoluButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/marmaraButton"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/doguAnadoluButton"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginBottom="45dp"
+        android:background="#00FFFFFF"
+        android:onClick="doguAnadolu"
+        android:text="Doğu anadolu"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/guneyDoguAnadaluButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/icAnadoluButton"
+        app:layout_constraintTop_toBottomOf="@+id/karadenizButton" />
+
+    <Button
+        android:id="@+id/egeButton"
+        android:layout_width="129dp"
+        android:layout_height="81dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="28dp"
+        android:background="#00FFFFFF"
+        android:onClick="ege"
+        android:text="Ege"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toTopOf="@+id/akdenizButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/marmaraButton"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <Button
+        android:id="@+id/marmaraButton"
+        android:layout_width="168dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="12dp"
+        android:background="#00FFFFFF"
+        android:onClick="marmara"
+        android:text="Marmara"
+        android:textAllCaps="true"
+        android:textColor="#0C0B0B"
+        android:textColorLink="#A02E2E"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toTopOf="@+id/icAnadoluButton"
+        app:layout_constraintEnd_toStartOf="@+id/karadenizButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/guneyDoguAnadaluButton"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="169dp"
+        android:layout_marginBottom="83dp"
+        android:background="#00FFFFFF"
+        android:onClick="guneyDoguAnadolu"
+        android:text="G.Doğu Anadolu"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/akdenizButton"
+        app:layout_constraintTop_toBottomOf="@+id/doguAnadoluButton" />
+
+    <Button
+        android:id="@+id/akdenizButton"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="168dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginBottom="28dp"
+        android:background="#00FFFFFF"
+        android:onClick="akdeniz"
+        android:text="Akdeniz"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guneyDoguAnadaluButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/icAnadoluButton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

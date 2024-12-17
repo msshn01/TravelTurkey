@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:layout_marginTop="50sp"
+    android:orientation="vertical"
+    tools:context=".activity.CityInfoActivity">
+
+    <TextView
+        android:id="@+id/nameCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15sp"
+        android:gravity="center_vertical"
+        android:text="@string/kayseri"
+        android:textSize="25sp">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="287sp"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="15sp"
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/istanbul" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="268sp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/mainInCityName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/sivas"
+            android:textSize="25sp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/commentCity"
+            android:layout_width="match_parent"
+            android:layout_height="146sp"
+            android:layout_margin="15sp"
+            android:layout_weight="1"
+            android:text="@string/lorem_ipsum_dolor_sit_ibus_leo_ac_scelerisque_felis_aliquet_a_aenean_in_fermentum_urna_quisque_id_efficitur_turpis_nam_in_tortor_a_tortor_sollicitudin_gravida_vivamus_eu_blandit_dolor_eu_rutrum_ante_sed_quam_tortor_rutrum_non_pellentesque_aliquet_finibus_a_tellus_donec_odio_eros_malesuada_quis_sem_id_tempor_volutpat_lectus"
+            android:textAlignment="center"
+            android:textSize="18sp">
+
+        </TextView>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:text="@string/daha_fazlas_i_in_linke_t_klay_n_z"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/bolgeCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:layout_marginLeft="15sp"
+        android:layout_marginRight="15sp"
+        android:autoLink="web"
+        android:gravity="center"
+        android:linksClickable="true"
+        android:text="@string/anadolu_b_lgesi"
+        android:textSize="15sp">
+
+    </TextView>
+
+</LinearLayout>

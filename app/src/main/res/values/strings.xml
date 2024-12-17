@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelTurkey</string>
+    <string name="anadolu_b_lgesi">İç Anadolu Bölgesi</string>
+    <string name="daha_fazlas_i_in_linke_t_klay_n_z">Daha fazlası için linke tıklayınız</string>
+    <string name="lorem_ipsum_dolor_sit_ibus_leo_ac_scelerisque_felis_aliquet_a_aenean_in_fermentum_urna_quisque_id_efficitur_turpis_nam_in_tortor_a_tortor_sollicitudin_gravida_vivamus_eu_blandit_dolor_eu_rutrum_ante_sed_quam_tortor_rutrum_non_pellentesque_aliquet_finibus_a_tellus_donec_odio_eros_malesuada_quis_sem_id_tempor_volutpat_lectus">Lorem ipsum dolor sit ibus leo, ac scelerisque felis aliquet a. Aenean in fermentum urna. Quisque id efficitur turpis. Nam in tortor a tortor sollicitudin gravida. Vivamus eu blandit dolor, eu rutrum ante. Sed quam tortor, rutrum non pellentesque aliquet, finibus a tellus. Donec odio eros, malesuada quis sem id, tempor volutpat lectus.</string>
+    <string name="todo">TODO</string>
+    <string name="kayseri">Kayseri</string>
+    <string name="sivas">Sivas</string>
+</resources>
